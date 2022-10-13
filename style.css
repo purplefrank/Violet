@@ -1,0 +1,61 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+body {
+  background-color: black;
+  font font-family: 'segoe ui'; 'vedana'; 'sans-serif';
+}
+header {
+  background-image: url(./img/Records.jpg);
+}
+img {
+  width:500px;
+}
+
+h1 {
+  color: white;
+font-size: 100px;
+text-align: center;
+font-weight: bold;
+}
+h2 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#selection {
+background-color: #ef8354;
+}
+#selling {
+  background-color: #0e7c7b;
+}
+#live {
+  background-color: #9c548b;
+}
+
+
+p {
+  color:white;
+  font-size: 16px;
+}
+
+.bolder {
+  font-weight: bold;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:link {
+  color: #ef8354;
+}
+
+a:hover {
+  color: #9c528b
+}
+
+footer {
+  text-align: center;
+}
