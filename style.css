@@ -1,7 +1,7 @@
 /* Write your CSS here - remember to add Id's or classes to the HTML file */
 body {
   background-color: black;
-  font font-family: 'segoe ui'; 'vedana'; 'sans-serif';
+  font-family: 'segoe ui', verdana, sans-serif;
 }
 header {
   background-image: url(./img/Records.jpg);
